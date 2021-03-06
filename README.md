@@ -5,7 +5,7 @@
 - 🌱 I'm currently learning about wearable and ubiquitous technologies
 - 👯 I'm looking to build any kind of software that streamlines my day-to-day life.
 - 📫 How to reach me: Check out my portfolio!
-- 😄 Pronouns: he/him/his
+- 😄 Pronouns: he/him/él
 
 ### Languages and Tools
 

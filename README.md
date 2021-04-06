@@ -2,6 +2,7 @@
 
 - 🔭 I'm currently working on:
   - [A Super Smash Bros. character recognizer using computer vision](https://github.com/Forward-Aerial)
+  - [Testing methods of real-time captioning for people who are deaf/hard-of-hearing](https://gabrielbrita.in/projects/muc-cog.html)
 - 🌱 I'm currently learning about wearable and ubiquitous technologies
 - 👯 I'm looking to build any kind of software that streamlines my day-to-day life.
 - 📫 How to reach me: Check out my portfolio!

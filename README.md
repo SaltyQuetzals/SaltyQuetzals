@@ -1,4 +1,4 @@
-### 👋 Hi! I'm Gabiel, a MS student studying Human-Computer Interaction at Georgia Tech.
+### 👋 Hi! I'm Gabriel, a MS student studying Human-Computer Interaction at Georgia Tech.
 
 - 🔭 I'm currently working on:
   - [A Super Smash Bros. character recognizer using computer vision](https://github.com/Forward-Aerial)

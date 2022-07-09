@@ -1,4 +1,4 @@
-### 👋 Hi! I'm Gabriel, a MS student studying Human-Computer Interaction at Georgia Tech.
+### 👋 Hi! I'm Gabriel, a software engineer exploring Mixed Reality at Microsoft
 
 - 🔭 I'm currently working on:
   - [A Super Smash Bros. character recognizer using computer vision](https://github.com/Forward-Aerial)
